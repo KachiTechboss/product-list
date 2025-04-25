@@ -157,11 +157,11 @@
     width: 500px;
     position: relative;
     top: -190px;
-    left: 70px;
+    left: 50px;
     transform: translate(-100%, -100%) scale(0.1);
     transition: transform 0.9s;
   }
-}
+
   .btn-VanillaBean {
     left: 110px;
     top: -100px;
