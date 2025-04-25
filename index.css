@@ -1,0 +1,409 @@
+@media (max-width: 1159px) {
+  .gallery-item {
+    height: 150px;
+    width: 150px;
+  }
+  .toggleButton {
+    font-size: 0.8rem;
+    height: 30px;
+    width: 100px;
+  }
+  button {
+    font-size: 0.7rem;
+    padding: 0.3rem 0.5rem;
+  }
+  button img {
+    height: 15px;
+  }
+  .btn-Waffle {
+    left: 75px;
+    top: -90px;
+  }
+  .btn-VanillaBean {
+    left: 75px;
+    top: -90px;
+  }
+  .btn-Macaron {
+    left: 75px;
+    top: -90px;
+  }
+  .btn-Tiramisu {
+    left: 75px;
+    top: -90px;
+  }
+  .btn-Pistachio {
+    left: 75px;
+    top: -90px;
+  }
+  .btn-Meringue {
+    left: 75px;
+    top: -90px;
+  }
+  .btn-VelvetCake {
+    left: 75px;
+    top: -90px;
+  }
+  .btn-Brownie {
+    left: 75px;
+    top: -90px;
+  }
+  .btn-VanillaPanna {
+    left: 75px;
+    top: -90px;
+  }
+  .confirmed-order {
+    background-color: #fff;
+    border-radius: 0.8rem;
+    padding: 2rem;
+    width: 500px;
+    position: relative;
+    top: -190px;
+    left: -150px;
+    transform: translate(-100%, -100%) scale(0.1);
+    transition: transform 0.9s;
+  }
+  .Product-details P {
+    font-size: 0.8rem;
+  }
+  .cart {
+    width: 300px;
+  }
+  .open-popup {
+    transform: translate(30%, 30%) scale(1);
+  }
+}
+@media (max-width: 880px) {
+  .product-list {
+    grid-template-columns: 1fr 1fr;
+  }
+  .gallery-item {
+    height: 150px;
+    width: 180px;
+  }
+  .btn-Waffle {
+    left: 87px;
+  }
+  .btn-VanillaBean {
+    left: 87px;
+  }
+  .btn-Macaron {
+    left: 87px;
+  }
+  .btn-Tiramisu {
+    left: 87px;
+  }
+  .btn-Pistachio {
+    left: 87px;
+  }
+  .btn-Meringue {
+    left: 87px;
+  }
+  .btn-VelvetCake {
+    left: 87px;
+  }
+  .btn-Brownie {
+    left: 87px;
+  }
+  .btn-VanillaPanna {
+    left: 87px;
+  }
+  .vanilla-panna {
+    grid-column: 1 / -1;
+    justify-self: center;
+  }
+  .cart {
+    width: 250px;
+  }
+  .open-popup {
+    transform: translate(0%, 30%) scale(1);
+  }
+  .confirmed-order {
+    background-color: #fff;
+    border-radius: 0.8rem;
+    padding: 2rem;
+    width: 500px;
+    position: relative;
+    top: -190px;
+    left: -60px;
+    transform: translate(-100%, -100%) scale(0.1);
+    transition: transform 0.9s;
+  }
+}
+@media (max-width: 720px) {
+  .product-list {
+    grid-template-columns: 1fr;
+  }
+  .toggleButton {
+    font-size: 1rem;
+    height: 35px;
+    width: 150px;
+  }
+  button {
+    font-size: 0.8rem;
+    padding: 0.5rem 1.5rem;
+  }
+  .gallery-item {
+    height: 200px;
+    width: 230px;
+  }
+  .btn-Waffle {
+    left: 110px;
+    top: -100px;
+  }
+  .confirmed-order {
+    background-color: #fff;
+    border-radius: 0.8rem;
+    padding: 2rem;
+    width: 500px;
+    position: relative;
+    top: -190px;
+    left: 70px;
+    transform: translate(-100%, -100%) scale(0.1);
+    transition: transform 0.9s;
+  }
+}
+  .btn-VanillaBean {
+    left: 110px;
+    top: -100px;
+  }
+  .btn-Macaron {
+    left: 110px;
+    top: -100px;
+  }
+  .btn-Tiramisu {
+    left: 110px;
+    top: -100px;
+  }
+  .btn-Pistachio {
+    left: 110px;
+    top: -100px;
+  }
+  .btn-Meringue {
+    left: 110px;
+    top: -100px;
+  }
+  .btn-VelvetCake {
+    left: 110px;
+    top: -100px;
+  }
+  .btn-Brownie {
+    left: 110px;
+    top: -100px;
+  }
+  .btn-VanillaPanna {
+    left: 110px;
+    top: -100px;
+  }
+  .Product-details P {
+    font-size: 1rem;
+  }
+  .cart {
+    top: 20px;
+    position: sticky;
+    width: 300px;
+  }
+  .open-popup {
+    transform: translate(0%, 30%) scale(1);
+  }
+}
+@media (max-width: 620px) {
+  .toggleButton {
+    font-size: 0.8rem;
+    height: 30px;
+    width: 120px;
+  }
+  button {
+    padding: 0.3rem 1rem;
+  }
+  .gallery-item {
+    height: 140px;
+    width: 160px;
+  }
+  .btn-Waffle {
+    left: 75px;
+    top: -97px;
+  }
+  .btn-VanillaBean {
+    left: 75px;
+    top: -97px;
+  }
+  .btn-Macaron {
+    left: 75px;
+    top: -97px;
+  }
+  .btn-Tiramisu {
+    left: 75px;
+    top: -97px;
+  }
+  .btn-Pistachio {
+    left: 75px;
+    top: -97px;
+  }
+  .btn-Meringue {
+    left: 75px;
+    top: -97px;
+  }
+  .btn-VelvetCake {
+    left: 75px;
+    top: -97px;
+  }
+  .btn-Brownie {
+    left: 75px;
+    top: -97px;
+  }
+  .btn-VanillaPanna {
+    left: 75px;
+    top: -97px;
+  }
+  .cart {
+    width: 270px;
+  }
+  .confirmed-order {
+    width: 400px;
+  }
+  .open-popup {
+    transform: translate(0%, 30%) scale(1);
+  }
+}
+@media (max-width: 520px) {
+  .online-shopping {
+    flex-direction: column;
+  }
+  .product-list {
+    gap: 0;
+    margin-bottom: 0;
+  }
+  .gallery-item {
+    margin-bottom: 1rem;
+  }
+  .gallery-item {
+    height: 200px;
+    width: 100%;
+  }
+  .vanilla-panna {
+    width: 100%;
+    justify-self: left;
+  }
+  .toggleButton {
+    font-size: 1rem;
+    height: 35px;
+    width: 150px;
+  }
+  button {
+    font-size: 0.8rem;
+    padding: 0.5rem 1.5rem;
+  }
+  .btn-Waffle {
+    left: 150px;
+    top: -85px;
+  }
+  .btn-VanillaBean {
+    left: 150px;
+    top: -85px;
+  }
+  .btn-Macaron {
+    left: 150px;
+    top: -85px;
+  }
+  .btn-Tiramisu {
+    left: 150px;
+    top: -85px;
+  }
+  .btn-Pistachio {
+    left: 150px;
+    top: -85px;
+  }
+  .btn-Meringue {
+    left: 150px;
+    top: -85px;
+  }
+  .btn-VelvetCake {
+    left: 150px;
+    top: -85px;
+  }
+  .btn-Brownie {
+    left: 150px;
+    top: -85px;
+  }
+  .btn-VanillaPanna {
+    left: 150px;
+    top: -85px;
+  }
+  .Product-details {
+    left: 130px;
+    top: -85px;
+  }
+  .cart {
+    width: 100%;
+    top: 0;
+    position: static;
+    margin-bottom: 2rem;
+  }
+  .confirmed-order {
+    width: 350px;
+  }
+  .open-popup {
+    transform: translate(-20%, 30%) scale(1);
+  }
+}
+@media (max-width: 375px) {
+  .btn-Waffle {
+    left: 145px;
+    top: -85px;
+  }
+  .btn-VanillaBean {
+    left: 145px;
+    top: -85px;
+  }
+  .btn-Macaron {
+    left: 145px;
+    top: -85px;
+  }
+  .btn-Tiramisu {
+    left: 145px;
+    top: -85px;
+  }
+  .btn-Pistachio {
+    left: 145px;
+    top: -85px;
+  }
+  .btn-Meringue {
+    left: 145px;
+    top: -85px;
+  }
+  .btn-VelvetCake {
+    left: 145px;
+    top: -85px;
+  }
+  .btn-Brownie {
+    left: 145px;
+    top: -85px;
+  }
+  .btn-VanillaPanna {
+    left: 145px;
+    top: -85px;
+  }
+}
+@media (max-width: 360px) {
+  .confirmed-order {
+    width: 300px;
+  }
+  .open-popup {
+    transform: translate(-13%, 30%) scale(1);
+  }
+
+  .item-name {
+    font-size: 0.6rem;
+  }
+}
+@media (max-width: 350px) {
+  h1 {
+    margin-left: 1rem;
+  }
+  .product-list {
+    padding: 0 1rem;
+  }
+  .cart-container {
+    padding: 0 1rem;
+  }
+}
